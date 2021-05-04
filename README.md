@@ -5,5 +5,5 @@
 [![](https://github.com/leeprinxin/CGAN/blob/main/model.png?raw=true)](http://https://github.com/leeprinxin/CGAN/blob/main/model.png?raw=true)
 **Discriminator**
 [![](https://github.com/leeprinxin/CGAN/blob/main/discriminator.png?raw=true)](http://https://github.com/leeprinxin/CGAN/blob/main/discriminator.png?raw=true)
-**Generator **
+**Generator**
 [![](https://github.com/leeprinxin/CGAN/blob/main/generator.png?raw=true)](http://https://github.com/leeprinxin/CGAN/blob/main/generator.png?raw=true)
